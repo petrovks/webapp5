@@ -17,6 +17,6 @@ public class Main {
         System.out.println(raceCar.getSpeed());
         raceCar.getDescription();
         simpleCar.getDescription();
-        System.out.println("Wow! It is a nice car!")
+        System.out.println("Wow! It is a wonderful car!")
     }
 }
